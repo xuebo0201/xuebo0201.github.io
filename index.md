@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Bo Xue (薛波)
 
-You can use the [editor on GitHub](https://github.com/xuebo0201/xuebo0201.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=HKMuQ2YAAAAJ)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: xuebo@shanghaitech.edu.cn
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bo Xue received the B.S. degree in electrical engineering and automation from the Hefei University of Technology, Xuancheng, China, in 2017. He is currently working toward the Ph.D. degree with the School of Information Science and Technology, ShanghaiTech University, Shanghai, China. His research includes dc-dc converters, inductive power transfer system, and resonant converters.
 
-```markdown
-Syntax highlighted code block
+### Education
+- Ph.D. candidate in Electrical Engineering, ShanghaiTech University/University of Chinese Academy of Sciences, Sept. 2019 - Present
+- M.S. in Electrical Engineering, ShanghaiTech University, Sept. 2018 - Jun. 2019
+- B.S. in Electrical Engineering and Automation, Hefei University of Technology, Sept. 2013 - Jun.2017
 
-# Header 1
-## Header 2
-### Header 3
+### Research Interests
 
-- Bulleted
-- List
+- DC/DC converter
+- Resonant converter
+- Indctive power transfer
 
-1. Numbered
-2. List
+### Awards
+Outstanding Student Scholarship of ShanghaiTech University in 2019
 
-**Bold** and _Italic_ and `Code` text
+### Publications
 
-[Link](url) and ![Image](src)
-```
+#### Journals
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- [[J3]](https://ieeexplore.ieee.org/document/9492828) L. Wang, H. Wang, **B. Xue**, and M. Zhou, "H5-bridge based single-input-dual-output LLC converter with wide output voltage range," *IEEE Trans. Ind. Electron*., in press.
 
-### Jekyll Themes
+- [[J2]](https://ieeexplore.ieee.org/document/9112715) **B. Xue**, H. Wang, J. Liang, Q. Cao, and Z. Li, "Phase-shift modulated interleaved LLC converter with ultrawide output voltage range," *IEEE Trans. Power Electron*., vol. 36, no. 1, pp. 493-503, Jan. 2021.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xuebo0201/xuebo0201.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [[J1]](https://ieeexplore.ieee.org/document/8651486) Z. Li, **B. Xue**, and H. Wang, "An interleaved secondary-side modulated LLC resonant converter for wide output range applications," *IEEE Trans. Ind. Electron*., vol. 67, no. 2, pp. 1124-1135, Feb. 2020.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Conferences
+
+- [C3] **B. Xue**, H. Wang,  R. He, P. Zhao, M. Fu and L. Yu, "A ZVS pulsewidth modulation scheme for active
+class-E rectifier based IPT systems," in *Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)*, Houston, TX, Mar. 2022. (**Won the PSMA travel grant.**)
+
+- [C2] R. He, H. Wang, and **B. Xue**, "Automatic resonant frequency tracking scheme for LLC resonant converter based on adaptive extended state observer," in *Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)*, Houston, TX, Mar. 2022.
+
+- [[C1]](https://ieeexplore.ieee.org/document/8722285) Q. Cao, Z. Li, **B. Xue**, and H. Wang, "Fixed frequency phase shift modulated LLC resonant converter adapted to ultra wide output voltage range," in *Proc. IEEE Appl. Power Electron. Conf. Expo. (APEC)*, Anaheim, CA, Mar. 2019, pp. 817-822. 
+
+### Professional Services
+
+#### Membership
+
+- Student Member, IEEE, 2018.7 - present 
+- Student Member, CPSS, 2020.1 - present
+- IEEE Young Professionals, 2018.7 - present
+- Member, IEEE Power Electronics Society, 2018.7 - present
+
+#### Reviewer
+
+- [IEEE Transaction on Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63)
+- [IEEE Transaction on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41)
+- [IEEE Transactions on Transportation Electrification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687316)
+- [IEEE Transactions on Industry Applications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=28)
+- [IEEE Journal of Emerging and Selected Topics in Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245517)
+- [IEEE Appl. Power Electron. Conf. Expo. (APEC)](http://www.apec-conf.org/)
