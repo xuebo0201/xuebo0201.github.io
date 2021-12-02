@@ -17,7 +17,7 @@ Bo Xue received the B.S. degree in electrical engineering and automation from th
 
 - DC/DC converter
 - Resonant converter
-- Indctive power transfer
+- Inductive power transfer
 
 ### Awards
 Outstanding Student Scholarship of ShanghaiTech University in 2019
