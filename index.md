@@ -1,6 +1,6 @@
 ## Bo Xue (薛波)
 
-[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=HKMuQ2YAAAAJ)
+[[Google Scholar]](https://scholar.google.com.hk/citations?hl=zh-CN&user=HKMuQ2YAAAAJ), [[Research gate]](https://www.researchgate.net/profile/Bo-Xue-7), [[Linkedin]](https://www.linkedin.com/in/xuebo0201/)
 
 Email: xuebo@shanghaitech.edu.cn
 
@@ -59,3 +59,9 @@ class-E rectifier based IPT systems," in *Proc. IEEE Appl. Power Electron. Conf.
 - [IEEE Transactions on Industry Applications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=28)
 - [IEEE Journal of Emerging and Selected Topics in Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245517)
 - [IEEE Appl. Power Electron. Conf. Expo. (APEC)](http://www.apec-conf.org/)
+
+### Additional Links
+
+- [Power Electronics and Renewable Energies Laboratory](https://pearl.shanghaitech.edu.cn/)
+- [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/sist_en/)
+- [ShanghaiTech University](https://www.shanghaitech.edu.cn/)
